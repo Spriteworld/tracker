@@ -1,0 +1,6 @@
+{
+    "require": {
+        "illuminate/collections": "^9.0",
+        "illuminate/support": "^9.0"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "_meta": {
+        "img": "assets\/emerald\/rusturf_tunnel.png",
+        "width": 840,
+        "height": 534
+    },
+    "warps": {
+        "left":{
+            "x":36,
+            "y":172
+        },
+        "middle":{
+            "x":424,
+            "y":446
+        },
+        "right":{
+            "x":726,
+            "y":337
+        }
+    },
+    "catches": []
+}

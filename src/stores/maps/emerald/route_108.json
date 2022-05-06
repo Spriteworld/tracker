@@ -1,0 +1,16 @@
+{
+    "_meta": {
+        "img": "assets\/emerald\/route_108.png",
+        "width": 328,
+        "height": 189
+    },
+    "warps": {
+        "ship_entrance": {
+            "x": 141,
+            "y": 120,
+            "w":43,
+            "h":25
+        }
+    },
+    "catches": []
+}

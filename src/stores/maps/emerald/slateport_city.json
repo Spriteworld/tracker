@@ -1,0 +1,80 @@
+{
+    "_meta": {
+        "img": "assets\/emerald\/slateport_city.png",
+        "width": 1052,
+        "height": 897
+    },
+    "warps": {
+        "contest":{
+            "x":175,
+            "y":77,
+            "h":34,
+            "w":30
+        },
+        "house1":{
+            "x":57,
+            "y":249
+        },
+        "pokecenter":{
+            "x":394,
+            "y":249
+        },
+        "mart":{
+            "x":250,
+            "y":418
+        },
+        "house2":{
+            "x":32,
+            "y":429
+        },
+        "museum":{
+            "x":657,
+            "y":424,
+            "h":34,
+            "w":50
+        },
+        "museum_stairs":{
+            "x":663,
+            "y":12
+        },
+        "museum_entrance":{
+            "x":750,
+            "y":222,
+            "h":28,
+            "w":55
+        },
+        "shipyard":{
+            "x":561,
+            "y":699
+        },
+        "stern_top":{
+            "x":902,
+            "y":320,
+            "h":22,
+            "w":55
+        },
+        "stern_bottom":{
+            "x":888,
+            "y":668,
+            "w":55,
+            "h":32
+        },
+        "house3":{
+            "x":442,
+            "y":849
+        },
+        "pokecenter_stairs":{
+            "x":34,
+            "y":667,
+            "h":65,
+            "w":32
+        },
+        "pokecenter_entrance":{
+            "x":192,
+            "y":747,
+            "h":32,
+            "w":65
+        }
+    },
+    "catches": []
+}

@@ -1,0 +1,55 @@
+{
+    "_meta": {
+        "img": "assets\/emerald\/elite_four.png",
+        "width": 1000,
+        "height": 1000
+    },
+    "warps": {
+        "sidney_top": {
+            "x": 161,
+            "y": 44,
+            "w": 34,
+            "h": 36
+        },
+        "sidney_bottom": {
+            "x": 161,
+            "y": 330
+        },
+        "phoebe_top": {
+            "x": 806,
+            "y": 44,
+            "w": 34,
+            "h": 36
+        },
+        "phoebe_bottom": {
+            "x": 805,
+            "y": 330
+        },
+        "wallace_entrance": {
+            "x": 469,
+            "y": 598,
+            "w": 72
+        },
+        "glacia_top": {
+            "x": 163,
+            "y": 661,
+            "w": 34,
+            "h": 36
+        },
+        "glacia_bottom": {
+            "x": 162,
+            "y": 948
+        },
+        "drake_top": {
+            "x": 805,
+            "y": 662,
+            "w": 34,
+            "h": 36
+        },
+        "drake_bottom": {
+            "x": 804,
+            "y": 948
+        }
+    },
+    "catches": []
+}

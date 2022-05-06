@@ -1,0 +1,30 @@
+{
+    "_meta": {
+        "img": "assets\/emerald\/sky_pillar_f4-5.png",
+        "width": 792,
+        "height": 386
+    },
+    "warps": {
+        "door1":{
+            "x":77,
+            "y":22
+        },
+        "door2":{
+            "x":188,
+            "y":20
+        },
+        "door3":{
+            "x":296,
+            "y":19
+        },
+        "door4":{
+            "x":485,
+            "y":22
+        },
+        "door5":{
+            "x":676,
+            "y":21
+        }
+    },
+    "catches": []
+}

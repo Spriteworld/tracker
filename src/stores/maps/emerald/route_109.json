@@ -1,0 +1,14 @@
+{
+    "_meta": {
+        "img": "assets\/emerald\/route_109.png",
+        "width": 312,
+        "height": 228
+    },
+    "warps": {
+        "house_1": {
+            "x": 119,
+            "y": 106
+        }
+    },
+    "catches": []
+}

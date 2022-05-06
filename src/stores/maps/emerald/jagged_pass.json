@@ -1,0 +1,26 @@
+{
+    "_meta": {
+        "img": "assets\/emerald\/jagged_pass.png",
+        "width": 261,
+        "height": 692
+    },
+    "warps": {
+        "jagged_pass_north": {
+            "x": 89,
+            "y": 1,
+            "w": 66,
+            "h": 30
+        },
+        "magma_entrance": {
+            "x": 114,
+            "y": 349
+        },
+        "jagged_pass_south": {
+            "x": 100,
+            "y": 620,
+            "w": 66,
+            "h": 34
+        }
+    },
+    "catches": []
+}

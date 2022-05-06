@@ -1,0 +1,80 @@
+{
+    "_meta": {
+        "img": "assets\/emerald\/mossdeep_city.png",
+        "width": 1500,
+        "height": 788
+    },
+    "warps": {
+        "house_1":{
+            "x":63,
+            "y":164
+        },
+        "house_2":{
+            "x":350,
+            "y":131
+        },
+        "gym_interior":{
+            "x":509,
+            "y":49,
+            "h":27,
+            "w":53
+        },
+        "gym":{
+            "x":669,
+            "y":131
+        },
+        "house_3":{
+            "x":859,
+            "y":52
+        },
+        "space_center":{
+            "x":1337,
+            "y":340
+        },
+        "space_center_stairs":{
+            "x":1135,
+            "y":551,
+            "w":55,
+            "h":20
+        },
+        "space_center_entrance":{
+            "x":985,
+            "y":761,
+            "h":26,
+            "w":55
+        },
+        "house_4":{
+            "x":1434,
+            "y":659
+        },
+        "house_5":{
+            "x":30,
+            "y":355
+        },
+        "pokecenter":{
+            "x":351,
+            "y":356
+        },
+        "mart":{
+            "x":639,
+            "y":420
+        },
+        "house_6":{
+            "x":607,
+            "y":611
+        },
+        "pokecenter_entrance":{
+            "x":192,
+            "y":736,
+            "h":32,
+            "w":63
+        },
+        "pokecenter_stairs":{
+            "x":32,
+            "y":656,
+            "h":65,
+            "w":31
+        }
+    },
+    "catches": []
+}

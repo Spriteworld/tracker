@@ -1,0 +1,42 @@
+{
+    "_meta": {
+        "img": "assets\/emerald\/route_110.png",
+        "width": 652,
+        "height": 666
+    },
+    "warps": {
+        "cycling_north1":{
+            "x":59,
+            "y":135
+        },
+        "cycling_north2":{
+            "x":154,
+            "y":136
+        },
+        "new_mauville":{
+            "x":353,
+            "y":199
+        },
+        "trick_room_exterior":{
+            "x":119,
+            "y":309
+        },
+        "trick_room_left":{
+            "x":61,
+            "y":438
+        },
+        "trick_room_right":{
+            "x":316,
+            "y":435
+        },
+        "cycling_south1":{
+            "x":460,
+            "y":560
+        },
+        "cycling_south2":{
+            "x":555,
+            "y":560
+        }
+    },
+    "catches": []
+}

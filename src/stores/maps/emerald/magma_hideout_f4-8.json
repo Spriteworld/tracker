@@ -1,0 +1,42 @@
+{
+    "_meta": {
+        "img": "assets\/emerald\/magma_hideout_f4-8.png",
+        "width": 661,
+        "height": 653
+    },
+    "warps": {
+        "floor4_top":{
+            "x":512,
+            "y":7
+        },
+        "floor4_bottom":{
+            "x":212,
+            "y":229
+        },
+        "floor5_top":{
+            "x":600,
+            "y":2
+        },
+        "floor5_bottom":{
+            "x":603,
+            "y":316
+        },
+        "floor6_top":{
+            "x":439,
+            "y":312
+        },
+        "floor6_bottom":{
+            "x":23,
+            "y":600
+        },
+        "floor8_top":{
+            "x":580,
+            "y":388
+        },
+        "floor8_bottom":{
+            "x":582,
+            "y":578
+        }
+    },
+    "catches": []
+}

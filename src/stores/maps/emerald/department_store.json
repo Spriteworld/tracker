@@ -1,0 +1,61 @@
+{
+    "_meta": {
+        "img": "assets\/emerald\/department_store.png",
+        "width": 491,
+        "height": 670
+    },
+    "warps": {
+        "left_stairs_5f": {
+            "x": 353,
+            "y": 19,
+            "h": 36
+        },
+        "right_stairs_5f": {
+            "x": 435,
+            "y": 19,
+            "h": 36
+        },
+        "left_stairs_4f": {
+            "x": 353,
+            "y": 148,
+            "36": 36
+        },
+        "right_stairs_4f": {
+            "x": 435,
+            "y": 148,
+            "h": 36
+        },
+        "left_stairs_3f": {
+            "x": 353,
+            "y": 252,
+            "h": 36
+        },
+        "right_stairs_3f": {
+            "x": 435,
+            "y": 252,
+            "h": 36
+        },
+        "left_stairs_2f": {
+            "x": 355,
+            "y": 366,
+            "h": 36
+        },
+        "right_stairs_2f": {
+            "x": 437,
+            "y": 366,
+            "h": 36
+        },
+        "stairs_1f": {
+            "x": 436,
+            "y": 471,
+            "h": 36
+        },
+        "entrance_1f": {
+            "x": 218,
+            "y": 641,
+            "w": 55,
+            "h": 30
+        }
+    },
+    "catches": []
+}

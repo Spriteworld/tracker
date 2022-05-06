@@ -1,0 +1,58 @@
+{
+    "_meta": {
+        "img": "assets\/emerald\/evergrande_city.png",
+        "width": 1000,
+        "height": 1000
+    },
+    "warps": {
+        "evergrande": {
+            "x": 121,
+            "y": 93,
+            "w": 37,
+            "h": 30
+        },
+        "victory_road_exit": {
+            "x": 127,
+            "y": 795
+        },
+        "evergrande_entrance": {
+            "x": 649,
+            "y": 301,
+            "w": 55,
+            "h": 27
+        },
+        "e4": {
+            "x": 643,
+            "y": 12,
+            "w": 66,
+            "h": 40
+        },
+        "evergrande_stairs": {
+            "x": 430,
+            "y": 179,
+            "w": 26,
+            "h": 56
+        },
+        "victory_road_entrance": {
+            "x": 522,
+            "y": 382
+        },
+        "pokecenter": {
+            "x": 809,
+            "y": 604
+        },
+        "pokecenter_entrance": {
+            "x": 620,
+            "y": 941,
+            "h": 33,
+            "w": 63
+        },
+        "pokecenter_stairs": {
+            "x": 461,
+            "y": 862,
+            "w": 30,
+            "h": 65
+        }
+    },
+    "catches": []
+}

@@ -1,0 +1,44 @@
+{
+    "_meta": {
+        "img": "assets\/emerald\/fallarbor_town.png",
+        "width": 593,
+        "height": 816
+    },
+    "warps": {
+        "pokecenter": {
+            "x": 444,
+            "y": 130,
+            "h": 36
+        },
+        "pokecenter_inside_entrance": {
+            "x": 253,
+            "y": 783,
+            "h": 32,
+            "w": 65
+        },
+        "pokecenter_inside_stairs": {
+            "x": 93,
+            "y": 704,
+            "h": 65
+        },
+        "pokemart": {
+            "x": 477,
+            "y": 386,
+            "h": 36
+        },
+        "house_1": {
+            "x": 29,
+            "y": 95
+        },
+        "house_2": {
+            "x": 189,
+            "y": 448
+        },
+        "contesthall": {
+            "x": 250,
+            "y": 124,
+            "w": 34
+        }
+    },
+    "catches": []
+}

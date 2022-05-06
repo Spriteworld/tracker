@@ -1,0 +1,18 @@
+{
+    "_meta": {
+        "img": "assets\/emerald\/fiery_path.png",
+        "width": 231,
+        "height": 553
+    },
+    "warps": {
+        "fiery_path_top": {
+            "x": 160,
+            "y": 50
+        },
+        "fiery_path_bottom": {
+            "x": 161,
+            "y": 500
+        }
+    },
+    "catches": []
+}

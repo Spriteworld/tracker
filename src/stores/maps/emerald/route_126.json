@@ -1,0 +1,16 @@
+{
+    "_meta": {
+        "img": "assets\/emerald\/route_126.png",
+        "width": 338,
+        "height": 270
+    },
+    "warps": {
+        "underwater":{
+            "x":147,
+            "y":109,
+            "h":20,
+            "w":30
+        }
+    },
+    "catches": []
+}

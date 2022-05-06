@@ -1,0 +1,34 @@
+{
+    "_meta": {
+        "img": "assets\/emerald\/devon_corp.png",
+        "width": 596,
+        "height": 566
+    },
+    "warps": {
+        "top_floor_left": {
+            "x": 54,
+            "y": 40,
+            "h": 22,
+            "w": 50
+        },
+        "top_floor_right": {
+            "x": 432,
+            "y": 40,
+            "h": 22,
+            "w": 50
+        },
+        "bottom_floor_stairs": {
+            "x": 373,
+            "y": 326,
+            "h": 22,
+            "w": 47
+        },
+        "bottom_floor_entrance": {
+            "x": 103,
+            "y": 531,
+            "h": 32,
+            "w": 63
+        }
+    },
+    "catches": []
+}

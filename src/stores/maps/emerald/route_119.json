@@ -1,0 +1,28 @@
+{
+    "_meta": {
+        "img": "assets\/emerald\/route_119.png",
+        "width": 950,
+        "height": 607
+    },
+    "warps": {
+        "weather":{
+            "x":176,
+            "y":212
+        },
+        "house":{
+            "x":162,
+            "y":453
+        },
+        "weather_entrance":{
+            "x":647,
+            "y":330,
+            "w":55,
+            "h":28
+        },
+        "weather_stairs":{
+            "x":865,
+            "y":22
+        }
+    },
+    "catches": []
+}

@@ -1,0 +1,14 @@
+{
+    "_meta": {
+        "img": "assets\/emerald\/route_117.png",
+        "width": 442,
+        "height": 309
+    },
+    "warps": {
+        "daycare":{
+            "x":213,
+            "y":126
+        }
+    },
+    "catches": []
+}

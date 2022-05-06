@@ -1,0 +1,82 @@
+{
+    "_meta": {
+        "img": "assets\/emerald\/mt_pyre_f3-4.png",
+        "width": 840,
+        "height": 417
+    },
+    "warps": {
+        "floor3_stairs_left":{
+            "x":48,
+            "y":40,
+            "h":28,
+            "w":65
+        },
+        "floor3_stairs_right":{
+            "x":303,
+            "y":42,
+            "h":28,
+            "w":65
+        },
+        "floor3_fall1":{
+            "x":71,
+            "y":385,
+            "h":32,
+            "w":32
+        },
+        "floor3_hole1":{
+            "x":191,
+            "y":380,
+            "h":32,
+            "w":32
+        },
+        "floor3_fall2":{
+            "x":286,
+            "y":317,
+            "h":32,
+            "w":32
+        },
+        "floor3_hole2":{
+            "x":318,
+            "y":380,
+            "h":32,
+            "w":32
+        },
+        "floor4_stairs_left":{
+            "x":470,
+            "y":171,
+            "h":28,
+            "w":65
+        },
+        "floor4_stairs_right":{
+            "x":726,
+            "y":42,
+            "h":28,
+            "w":65
+        },
+        "floor4_hole1":{
+            "x":484,
+            "y":383,
+            "h":32,
+            "w":32
+        },
+        "floor4_hole2":{
+            "x":711,
+            "y":319,
+            "h":32,
+            "w":32
+        },
+        "floor4_fall1":{
+            "x":805,
+            "y":319,
+            "h":32,
+            "w":32
+        },
+        "floor4_fall2":{
+            "x":807,
+            "y":384,
+            "h":32,
+            "w":32
+        }
+    },
+    "catches": []
+}

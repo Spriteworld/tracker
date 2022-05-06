@@ -1,0 +1,22 @@
+{
+    "_meta": {
+        "img": "assets\/emerald\/route_116.png",
+        "width": 876,
+        "height": 297
+    },
+    "warps": {
+        "house":{
+            "x":96,
+            "y":115
+        },
+        "cave1":{
+            "x":384,
+            "y":115
+        },
+        "cave2":{
+            "x":562,
+            "y":57
+        }
+    },
+    "catches": []
+}

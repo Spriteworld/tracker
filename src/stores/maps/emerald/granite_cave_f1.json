@@ -1,0 +1,28 @@
+{
+    "_meta": {
+        "img": "assets\/emerald\/granite_cave_f1.png",
+        "width": 1124,
+        "height": 404
+    },
+    "warps": {
+        "left_cave": {
+            "x": 37,
+            "y": 272
+        },
+        "ladder_1": {
+            "x": 422,
+            "y": 296,
+            "h": 32
+        },
+        "ladder_2": {
+            "x": 998,
+            "y": 39,
+            "h": 32
+        },
+        "exit_right": {
+            "x": 1063,
+            "y": 337
+        }
+    },
+    "catches": []
+}

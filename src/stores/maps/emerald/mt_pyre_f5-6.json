@@ -1,0 +1,52 @@
+{
+    "_meta": {
+        "img": "assets\/emerald\/mt_pyre_f5-6.png",
+        "width": 840,
+        "height": 417
+    },
+    "warps": {
+        "floor5_stairs_left":{
+            "x":46,
+            "y":42,
+            "h":28,
+            "w":65
+        },
+        "floor5:stairs_right":{
+            "x":302,
+            "y":172,
+            "h":28,
+            "w":65
+        },
+        "floor5_fall":{
+            "x":30,
+            "y":320,
+            "h":32,
+            "w":32
+        },
+        "floor5_hole1":{
+            "x":383,
+            "y":320,
+            "h":32,
+            "w":32
+        },
+        "floor5_hole2":{
+            "x":382,
+            "y":384,
+            "h":32,
+            "w":32
+        },
+        "floor6_stairs":{
+            "x":469,
+            "y":43,
+            "h":28,
+            "w":65
+        },
+        "floor6_hole":{
+            "x":452,
+            "y":320,
+            "h":32,
+            "w":32
+        }
+    },
+    "catches": []
+}

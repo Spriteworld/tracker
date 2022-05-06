@@ -1,0 +1,50 @@
+{
+    "_meta": {
+        "img": "assets\/emerald\/verdanturf_town.png",
+        "width": 630,
+        "height": 735
+    },
+    "warps": {
+        "contest":{
+            "x":86,
+            "y":209
+        },
+        "cave":{
+            "x":248,
+            "y":23
+        },
+        "mart":{
+            "x":377,
+            "y":86
+        },
+        "pokecenter":{
+            "x":504,
+            "y":87
+        },
+        "house1":{
+            "x":24,
+            "y":439
+        },
+        "house2":{
+            "x":312,
+            "y":438
+        },
+        "house3":{
+            "x":535,
+            "y":470
+        },
+        "pokecenter_stairs":{
+            "x":114,
+            "y":620,
+            "h":65,
+            "w":32
+        },
+        "pokecenter_entrance":{
+            "x":272,
+            "y":700,
+            "h":32,
+            "w":65
+        }
+    },
+    "catches": []
+}

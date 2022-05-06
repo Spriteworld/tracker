@@ -1,0 +1,30 @@
+{
+    "_meta": {
+        "img": "assets\/emerald\/seafloor_cavern_f5-6.png",
+        "width": 936,
+        "height": 590
+    },
+    "warps": {
+        "cave1":{
+            "x":21,
+            "y":7
+        },
+        "cave2":{
+            "x":261,
+            "y":174
+        },
+        "cave3":{
+            "x":190,
+            "y":495
+        },
+        "cave4":{
+            "x":548,
+            "y":3
+        },
+        "cave5":{
+            "x":501,
+            "y":540
+        }
+    },
+    "catches": []
+}

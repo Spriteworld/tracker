@@ -1,0 +1,26 @@
+{
+    "_meta": {
+        "img": "assets\/emerald\/route_120.png",
+        "width": 356,
+        "height": 837
+    },
+    "warps": {
+        "cave":{
+            "x":120,
+            "y":122
+        },
+        "regi_top":{
+            "x":153,
+            "y":278
+        },
+        "regi_bottom":{
+            "x":153,
+            "y":534
+        },
+        "regi_exterior":{
+            "x":150,
+            "y":717
+        }
+    },
+    "catches": []
+}

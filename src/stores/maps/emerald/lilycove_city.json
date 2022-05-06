@@ -1,0 +1,124 @@
+{
+    "_meta": {
+        "img": "assets\/emerald\/lilycove_city.png",
+        "width": 998,
+        "height": 914
+    },
+    "warps": {
+        "department_store": {
+            "x": 311,
+            "y": 55,
+            "h": 23,
+            "w": 32
+        },
+        "house_1": {
+            "x": 455,
+            "y": 55,
+            "h": 24,
+            "w": 31
+        },
+        "house_2": {
+            "x": 551,
+            "y": 55,
+            "h": 24,
+            "w": 31
+        },
+        "aqua_entrance": {
+            "x": 905,
+            "y": 79,
+            "h": 22,
+            "w": 30
+        },
+        "house_3": {
+            "x": 71,
+            "y": 182,
+            "h": 24,
+            "w": 31
+        },
+        "pokecenter": {
+            "x": 264,
+            "y": 180,
+            "h": 26,
+            "w": 28
+        },
+        "house_4": {
+            "x": 503,
+            "y": 181,
+            "h": 24,
+            "w": 31
+        },
+        "house_5": {
+            "x": 759,
+            "y": 198,
+            "h": 24,
+            "w": 31
+        },
+        "house_6": {
+            "x": 55,
+            "y": 310,
+            "h": 24,
+            "w": 31
+        },
+        "contest_hall": {
+            "x": 247,
+            "y": 342,
+            "h": 24,
+            "w": 31
+        },
+        "motel": {
+            "x": 471,
+            "y": 342,
+            "h": 24,
+            "w": 31
+        },
+        "shipyard": {
+            "x": 71,
+            "y": 471,
+            "h": 23,
+            "w": 31
+        },
+        "contest_interior_left": {
+            "x": 461,
+            "y": 427,
+            "h": 32,
+            "w": 35
+        },
+        "contest_interior_right": {
+            "x": 790,
+            "y": 427,
+            "h": 32,
+            "w": 35
+        },
+        "contest_hall_entrance": {
+            "x": 601,
+            "y": 587,
+            "h": 25,
+            "w": 54
+        },
+        "pokecenter_stairs": {
+            "x": 36,
+            "y": 800,
+            "h": 65,
+            "w": 30
+        },
+        "pokecenter_entrance": {
+            "x": 195,
+            "y": 881,
+            "h": 29,
+            "w": 64
+        },
+        "motel_stairs": {
+            "x": 574,
+            "y": 658,
+            "h": 33,
+            "w": 30
+        },
+        "motel_entrance": {
+            "x": 658,
+            "y": 854,
+            "h": 28,
+            "w": 55
+        }
+    },
+    "catches": []
+}

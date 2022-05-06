@@ -1,0 +1,46 @@
+{
+    "_meta": {
+        "img": "assets\/emerald\/pacifidlog_town.png",
+        "width": 684,
+        "height": 811
+    },
+    "warps": {
+        "house1":{
+            "x":78,
+            "y":59
+        },
+        "pokecenter":{
+            "x":270,
+            "y":157
+        },
+        "house2":{
+            "x":525,
+            "y":91
+        },
+        "house3":{
+            "x":109,
+            "y":380
+        },
+        "house4":{
+            "x":398,
+            "y":443
+        },
+        "house5":{
+            "x":557,
+            "y":347
+        },
+        "pokecenter_stairs":{
+            "x":36,
+            "y":695,
+            "h":65,
+            "w":32
+        },
+        "pokecenter_entrance":{
+            "x":196,
+            "y":776,
+            "h":32,
+            "w":65
+        }
+    },
+    "catches": []
+}

@@ -1,0 +1,28 @@
+{
+    "_meta": {
+        "img": "assets\/emerald\/petalburg_woods.png",
+        "width": 331,
+        "height": 262
+    },
+    "warps": {
+        "woods_north":{
+            "x":93,
+            "y":19,
+            "h":20,
+            "w":32
+        },
+        "woods_left":{
+            "x":58,
+            "y":200,
+            "h":25,
+            "w":42
+        },
+        "woods_right":{
+            "x":230,
+            "y":196,
+            "h":26,
+            "w":43
+        }
+    },
+    "catches": []
+}

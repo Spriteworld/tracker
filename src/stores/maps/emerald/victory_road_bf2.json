@@ -1,0 +1,34 @@
+{
+    "_meta": {
+        "img": "assets\/emerald\/victory_road_bf2.png",
+        "width": 878,
+        "height": 564
+    },
+    "warps": {
+        "ladder1":{
+            "x":825,
+            "y":11,
+            "h":32,
+            "w":32
+        },
+        "ladder2":{
+            "x":317,
+            "y":227,
+            "h":32,
+            "w":32
+        },
+        "ladder3":{
+            "x":16,
+            "y":521,
+            "h":32,
+            "w":32
+        },
+        "ladder4":{
+            "x":551,
+            "y":503,
+            "h":32,
+            "w":32
+        }
+    },
+    "catches": []
+}

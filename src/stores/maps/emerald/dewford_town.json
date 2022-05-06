@@ -1,0 +1,48 @@
+{
+    "_meta": {
+        "img": "assets\/emerald\/dewford_town.png",
+        "width": 606,
+        "height": 921
+    },
+    "warps": {
+        "pokecenter": {
+            "x": 32,
+            "y": 312
+        },
+        "house_1": {
+            "x": 63,
+            "y": 88
+        },
+        "house_2": {
+            "x": 224,
+            "y": 248
+        },
+        "house_3": {
+            "x": 512,
+            "y": 440
+        },
+        "gym": {
+            "x": 224,
+            "y": 537
+        },
+        "gym_inside": {
+            "x": 477,
+            "y": 143,
+            "h": 28,
+            "w": 55
+        },
+        "center_inside_stairs": {
+            "x": 86,
+            "y": 806,
+            "h": 63,
+            "w": 30
+        },
+        "center_inside_entrance": {
+            "x": 246,
+            "y": 884,
+            "h": 32,
+            "w": 63
+        }
+    },
+    "catches": []
+}

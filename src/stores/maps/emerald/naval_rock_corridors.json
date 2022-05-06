@@ -1,0 +1,50 @@
+{
+    "_meta": {
+        "img": "assets\/emerald\/naval_rock_corridors.png",
+        "width": 712,
+        "height": 646
+    },
+    "warps": {
+        "room1_ladder1":{
+            "x":47,
+            "y":35,
+            "h":32,
+            "w":32
+        },
+        "room1_ladder2":{
+            "x":178,
+            "y":268,
+            "h":32,
+            "w":32
+        },
+        "room1_ladder3":{
+            "x":380,
+            "y":32,
+            "h":32,
+            "w":32
+        },
+        "room2_top":{
+            "x":600,
+            "y":8,
+            "h":32,
+            "w":32
+        },
+        "room2_bottom":{
+            "x":606,
+            "y":590
+        },
+        "room3_left":{
+            "x":45,
+            "y":440,
+            "h":32,
+            "w":32
+        },
+        "room3_right":{
+            "x":428,
+            "y":607,
+            "h":32,
+            "w":32
+        }
+    },
+    "catches": []
+}

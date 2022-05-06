@@ -1,0 +1,52 @@
+{
+    "_meta": {
+        "img": "assets\/emerald\/petalburg_city.png",
+        "width": 779,
+        "height": 916
+    },
+    "warps": {
+        "house1":{
+            "x":96,
+            "y":102
+        },
+        "gym":{
+            "x":352,
+            "y":199
+        },
+        "gym_interior":{
+            "x":613,
+            "y":130,
+            "h":36,
+            "w":52
+        },
+        "mart":{
+            "x":672,
+            "y":327
+        },
+        "pokecenter":{
+            "x":512,
+            "y":455
+        },
+        "house2":{
+            "x":192,
+            "y":550
+        },
+        "house3":{
+            "x":512,
+            "y":710
+        },
+        "pokecenter_stairs":{
+            "x":28,
+            "y":803,
+            "h":65,
+            "w":32
+        },
+        "pokecenter_entrance":{
+            "x":189,
+            "y":883,
+            "h":32,
+            "w":62
+        }
+    },
+    "catches": []
+}

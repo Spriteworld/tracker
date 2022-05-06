@@ -1,0 +1,35 @@
+{
+    "_meta": {
+        "img": "assets\/emerald\/granite_cave_bf2.png",
+        "width": 982,
+        "height": 758
+    },
+    "warps": {
+        "ladder_1": {
+            "x": 234,
+            "y": 142,
+            "h": 32
+        },
+        "ladder_2": {
+            "x": 362,
+            "y": 78,
+            "h": 32
+        },
+        "ladder_3": {
+            "x": 906,
+            "y": 46,
+            "h": 32
+        },
+        "ladder_4": {
+            "x": 906,
+            "y": 399,
+            "h": 32
+        },
+        "ladder_5": {
+            "x": 874,
+            "y": 654,
+            "h": 32
+        }
+    },
+    "catches": []
+}

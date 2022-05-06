@@ -1,0 +1,40 @@
+{
+    "_meta": {
+        "img": "assets\/emerald\/victory_road_main_floor.png",
+        "width": 810,
+        "height": 794
+    },
+    "warps": {
+        "ladder1":{
+            "x":66,
+            "y":201,
+            "h":32,
+            "w":32
+        },
+        "ladder2":{
+            "x":319,
+            "y":580,
+            "h":32,
+            "w":32
+        },
+        "ladder3":{
+            "x":761,
+            "y":707,
+            "h":32,
+            "w":32
+        },
+        "cave_entrance":{
+            "x":194,
+            "y":748,
+            "h":32,
+            "w":32
+        },
+        "cave_exit":{
+            "x":699,
+            "y":12,
+            "h":32,
+            "w":32
+        }
+    },
+    "catches": []
+}

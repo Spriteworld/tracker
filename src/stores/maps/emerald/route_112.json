@@ -1,0 +1,30 @@
+{
+    "_meta": {
+        "img": "assets\/emerald\/route_112.png",
+        "width": 527,
+        "height": 723
+    },
+    "warps": {
+        "fiery_n":{
+            "x":65,
+            "y":124
+        },
+        "fiery_s":{
+            "x":232,
+            "y":302
+        },
+        "jagged":{
+            "x":71,
+            "y":645,
+            "h":32,
+            "w":63
+        },
+        "trolley":{
+            "x":397,
+            "y":67,
+            "h":35,
+            "w":61
+        } 
+    },
+    "catches": []
+}

@@ -1,0 +1,22 @@
+{
+    "_meta": {
+        "img": "assets\/emerald\/route_105.png",
+        "width": 408,
+        "height": 763
+    },
+    "warps": {
+        "outside_entrance": {
+            "x": 169,
+            "y": 532
+        },
+        "inside_entrance": {
+            "x": 193,
+            "y": 322
+        },
+        "inside_exit": {
+            "x": 192,
+            "y": 67
+        }
+    },
+    "catches": []
+}

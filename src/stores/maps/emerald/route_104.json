@@ -1,0 +1,36 @@
+{
+    "_meta": {
+        "img": "assets\/emerald\/route_104.png",
+        "width": 848,
+        "height": 752
+    },
+    "warps": {
+        "peeko": {
+            "x": 267,
+            "y": 671
+        },
+        "flower_shop": {
+            "x": 68,
+            "y": 98
+        },
+        "woods_south_left": {
+            "x": 43,
+            "y": 304,
+            "h":31,
+            "w":63
+        },
+        "woods_south_right": {
+            "x": 747,
+            "y": 432,
+            "h":31,
+            "w":63
+        },
+        "woods_north": {
+            "x": 404,
+            "y": 116,
+            "h":31,
+            "w":63
+        }
+    },
+    "catches": []
+}

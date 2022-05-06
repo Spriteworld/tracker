@@ -1,0 +1,44 @@
+{
+    "_meta": {
+        "img": "assets\/emerald\/mirage_tower.png",
+        "width": 945,
+        "height": 876
+    },
+    "warps": {
+        "floor1_cave":{
+            "x":216,
+            "y":379
+        },
+        "floor1_ladder":{
+            "x":355,
+            "y":49,
+            "h":32,
+            "w":32
+        },
+        "floor2_ladder_top":{
+            "x":806,
+            "y":49,
+            "w":32,
+            "h":32
+        },
+        "floor2_ladder_bottom":{
+            "x":890,
+            "y":325,
+            "h":32,
+            "w":32
+        },
+        "floor3_ladder_left":{
+            "x":243,
+            "y":550,
+            "h":32,
+            "w":32
+        },
+        "floor3_ladder_right":{
+            "x":683,
+            "y":769,
+            "h":32,
+            "w":32
+        }
+    },
+    "catches": []
+}

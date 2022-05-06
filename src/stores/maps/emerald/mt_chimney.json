@@ -1,0 +1,22 @@
+{
+    "_meta": {
+        "img": "assets\/emerald\/mt_chimney.png",
+        "width": 465,
+        "height": 383
+    },
+    "warps": {
+        "chimney_trolley":{
+            "x":106,
+            "y":144,
+            "h":36,
+            "w":60
+        },
+        "jagged":{
+            "x":200,
+            "y":314,
+            "h":28,
+            "w":65
+        }
+    },
+    "catches": []
+}

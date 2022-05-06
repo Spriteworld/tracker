@@ -1,0 +1,58 @@
+{
+    "_meta": {
+        "img": "assets\/emerald\/lavaridge_town.png",
+        "width": 625,
+        "height": 806
+    },
+    "warps": {
+        "behind_pokecenter": {
+            "x": 215,
+            "y": 10
+        },
+        "pokecenter": {
+            "x": 214,
+            "y": 128
+        },
+        "mart": {
+            "x": 405,
+            "y": 96
+        },
+        "gym": {
+            "x": 85,
+            "y": 417
+        },
+        "house_1": {
+            "x": 309,
+            "y": 417
+        },
+        "house_2": {
+            "x": 437,
+            "y": 417
+        },
+        "gym_entrance": {
+            "x": 516,
+            "y": 682,
+            "w": 54,
+            "h": 28
+        },
+        "pokecenter_back_exit": {
+            "x": 56,
+            "y": 570,
+            "h": 26,
+            "w": 38
+        },
+        "pokecenter_stairs": {
+            "x": 32,
+            "y": 702,
+            "h": 59,
+            "w": 28
+        },
+        "pokecenter_entrance": {
+            "x": 179,
+            "y": 773,
+            "h": 31,
+            "w": 58
+        }
+    },
+    "catches": []
+}

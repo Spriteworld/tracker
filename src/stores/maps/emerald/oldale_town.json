@@ -1,0 +1,38 @@
+{
+    "_meta": {
+        "img": "assets\/emerald\/oldale_town.png",
+        "width": 540,
+        "height": 750
+    },
+    "warps": {
+        "oldale_pokecenter": {
+            "x": 121,
+            "y": 408
+        },
+        "oldale_pokemart": {
+            "x": 377,
+            "y": 88
+        },
+        "house_1": {
+            "x": 90,
+            "y": 118
+        },
+        "house_2": {
+            "x": 409,
+            "y": 408
+        },
+        "pokecenter_stairs":{
+            "x":34,
+            "y":638,
+            "w":30,
+            "h":65
+        },
+        "pokecenter_entrance":{
+            "x":193,
+            "y":718,
+            "h":31,
+            "w":65
+        }
+    },
+    "catches": []
+}

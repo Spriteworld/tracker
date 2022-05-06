@@ -1,0 +1,27 @@
+{
+    "_meta": {
+        "img": "assets\/emerald\/cave_of_origin.png",
+        "width": 568,
+        "height": 473
+    },
+    "warps": {
+        "room_1_top": {
+            "x": 84,
+            "y": 30
+        },
+        "room_1_bottom": {
+            "x": 83,
+            "y": 345
+        },
+        "room_2_ladder": {
+            "x": 467,
+            "y": 2,
+            "h": 32
+        },
+        "room_2_bottom": {
+            "x": 365,
+            "y": 419
+        }
+    },
+    "catches": []
+}

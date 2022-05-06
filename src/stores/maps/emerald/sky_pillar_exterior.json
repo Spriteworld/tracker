@@ -1,0 +1,30 @@
+{
+    "_meta": {
+        "img": "assets\/emerald\/sky_pillar_exterior.png",
+        "width": 580,
+        "height": 482
+    },
+    "warps": {
+        "cave1":{
+            "x":22,
+            "y":354
+        },
+        "cave2":{
+            "x":243,
+            "y":25
+        },
+        "cave3":{
+            "x":431,
+            "y":441
+        },
+        "cave4":{
+            "x":486,
+            "y":249
+        },
+        "pillar":{
+            "x":402,
+            "y":29
+        }
+    },
+    "catches": []
+}
